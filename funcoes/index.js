@@ -29,3 +29,5 @@ let pets = [
     vacinas: [{ nome: "BC500", data: "10/12/2015" }],
   },
 ];
+module.exports = pets;
+

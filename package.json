@@ -1,0 +1,20 @@
+{
+  "name": "exerciciopetshop",
+  "version": "1.0.0",
+  "description": "- Tema: Sistema PetShop\r - Tecnologia: Javascript\r O desafio consiste na criação de um sistema para atender o gerenciamento de um petshp. Serão desenvolvidas funções como cadastro de pets, vacinação e castração.",
+  "main": "petshop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inglide-noberto/ExercicioPetShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inglide-noberto/ExercicioPetShop/issues"
+  },
+  "homepage": "https://github.com/inglide-noberto/ExercicioPetShop#readme"
+}
